@@ -199,7 +199,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   velocity: 5
-  rotation_velocity: 100
+  rotation_velocity: 50
   customPivot: {fileID: 1626428785}
 --- !u!850595691 &563579128
 LightingSettings:
